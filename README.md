@@ -11,7 +11,7 @@
 
 |                | Link                                                   |
 | -------------- | ------------------------------------------------------ |
-| 🌐 Frontend    | finance-dashboard-phi-plum.vercel.app                  |
+| 🌐 Frontend    | https://finance-dashboard-phi-plum.vercel.app          |
 | 🔌 Backend API | https://finance-dashboard-api.onrender.com             |
 | 💻 GitHub      | https://github.com/abhijeetgupta1132/finance-dashboard |
 
